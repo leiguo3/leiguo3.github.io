@@ -9,7 +9,8 @@ name: Lei Guo
 description: Computer Science Graduate Student at ASU
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: {{ site.baseurl }}/images/avatar.jpg
+#avatar: {{ site.baseurl }}/images/avatar.jpg
+avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAhFAAAAJDk1MjM0MWJiLTg1ZTQtNDE0Yi1iNzkzLWZhYTQyZWY2YjJjYg.jpg
 
 #
 # Flags below are optional
