@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-6 years of software development experience and acquired a profound knowledge of Object–Oriented Design/Programming, Android Application Development and Software Testing 
+6 years of software development experience and acquired a profound knowledge of Object–Oriented Design/Programming, Android Application Development and Software Testing. 
 
 ### More Information
 
