@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 
+title: 星座
 ---
-[](/images/sheshou.png)    [](/images/shuangyu.png)
+[]({{ site.url }}/images/sheshou.png)    []({{ site.url }}/images/shuangyu.png)
 
 配对星座：男双鱼座 VS 女射手座
 
 配对指数：9999999999999999999999999999999999999999999999999999999999999
 
-配对比重：1：1：1
+配对比重：1：1
 
 两情相悦指数：9999999999999999999999999999999999999999999999999999999999
 
