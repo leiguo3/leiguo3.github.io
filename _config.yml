@@ -6,10 +6,9 @@
 name: Lei Guo
 
 # Short bio or description (displayed in the header)
-description: Computer Science Graduate Student at ASU
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://leiguo.info/images/avatar.jpg
 
 #
 # Flags below are optional
@@ -18,16 +17,16 @@ avatar: http://leiguo.info/images/avatar.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: leiguobj@gmail.com
+  email: 
   facebook:
   flickr:
-  github: leiguo3
+  github: 
   instagram:
-  linkedin: leiguo3
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
-  stackoverflow: users/1297670/lei-guo
+  stackoverflow:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
